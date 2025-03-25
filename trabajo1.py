@@ -8,5 +8,6 @@ elif z > 6:
 else:
  	pritnt("!yo tampoco!") #esta sentencia no se ejecutara
 
-print("¡Si lo are!”)
+print("¡muy pronto lo hare!”)
+      
 	
